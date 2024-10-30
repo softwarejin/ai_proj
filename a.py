@@ -1,1 +1,4 @@
-print(1)
+from copy import copy
+
+a = [1,2,3, 4]
+
